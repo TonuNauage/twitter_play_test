@@ -1,0 +1,24 @@
+{
+	"database":{
+		"user_name":"admin",
+		"password": "password",
+		"connection_url": "mongodb://dora:yourpassword@ds011775.mlab.com:11",
+		"database_name": "yourdbname",
+		"collection_name": "yourcollectionname"
+	},
+	"test_database": {
+		"user_name": "admin",
+		"password": "password",
+		"connection_url": "res-api.sdfsdfsd.us-west-2.rds.amazonaws.com:3306",
+		"database_name": "basic_api",
+		"collection_name": "tasks"
+	},
+	"twitter": {
+		"consumer_key": "asfadsfwer234fasdfsdafas"
+		"consumer_secret": "dafdsfasdfsdafsdaf",
+		"access_key": "adfasdfasd"
+		"access_secret": "asfdasfasddf"
+	}
+
+
+}
